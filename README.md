@@ -1,1 +1,1 @@
-# ci-cd-ml-lab
+Note: This repository is designed to support a Python-based data science project, including the initial setup for development and a CI/CD pipeline configuration. The repository will house code, dependencies, and configuration files, enabling automated testing, validation, and deployment through a GitHub Actions CI/CD pipeline. This setup ensures that all changes are automatically tested and deployed, promoting reliable, efficient, and consistent project updates.
